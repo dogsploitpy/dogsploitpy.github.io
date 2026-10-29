@@ -94,7 +94,7 @@
   var el = document.getElementById('footer-text');
   if (!el) return;
 
-  var text = 'Ðogspløit.py';
+  var text = 'root@Ðogspløit.py:~$';
   var i = 0;
   var speed = 80;
 
