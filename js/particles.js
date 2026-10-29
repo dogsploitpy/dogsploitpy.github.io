@@ -44,8 +44,8 @@
     maxCount: 150,
 
     // mouse: zona de repulsao (em tempo real, nao depende da velocidade nem do slow motion)
-    repelRadius: 120,       // alcance em cima e nos lados (px)
-    repelRadiusDown: 150,   // alcance para baixo (px)
+    repelRadius: 50,        // alcance em cima e nos lados (px)
+    repelRadiusDown: 100,   // alcance para baixo (px)
     repelSpring: 0.28,      // quao rapido a particula e empurrada para fora da zona (0 a 1 por frame)
     repelFling: 0.3,        // empurrao extra para fora, para elas "fugirem" em vez de colar na borda
     repelBrake: 0.7,        // quanto da velocidade em direcao ao mouse e cancelada (0 a 1)
